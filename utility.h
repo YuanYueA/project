@@ -22,7 +22,7 @@ list<int> clients_list;
 
 /**********************   macro defintion **************************/
 // server ip
-#define SERVER_IP "127.0.0.1"
+#define SERVER_IP "62.234.194.141"
 
 // server port
 #define SERVER_PORT 8888
